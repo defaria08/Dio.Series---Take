@@ -229,10 +229,15 @@ namespace Dio.Series
             Console.WriteLine("Informe a opção desejada: ");
 
             Console.WriteLine("1- Listar Séries");
-            Console.WriteLine("2- Inserir nova Série");
-            Console.WriteLine("3- Atualizar Série");
-            Console.WriteLine("4- Excluir Série");
-            Console.WriteLine("5- Visualizar Série");
+            Console.WriteLine("2- Listar Filmes");
+            Console.WriteLine("3- Inserir nova Série");
+            Console.WriteLine("4- Inserir novo Filme");
+            Console.WriteLine("5- Atualizar Série");
+            Console.WriteLine("6- Atualizar Filme");
+            Console.WriteLine("7- Excluir Série");
+            Console.WriteLine("8- Excluir Filme");
+            Console.WriteLine("9- Visualizar Série");
+            Console.WriteLine("10- Visualizar Filme");
             Console.WriteLine("C- Limpar Tela");
             Console.WriteLine("X- Sair");
             Console.WriteLine();

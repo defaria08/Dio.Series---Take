@@ -1,0 +1,16 @@
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.AssemblyReference.cache
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.GeneratedMSBuildEditorConfig.editorconfig
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfoInputs.cache
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.AssemblyInfo.cs
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.csproj.CoreCompileInputs.cache
+/home/diego/Dio.Series/bin/Debug/net5.0/Dio.Series
+/home/diego/Dio.Series/bin/Debug/net5.0/Dio.Series.deps.json
+/home/diego/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.json
+/home/diego/Dio.Series/bin/Debug/net5.0/Dio.Series.runtimeconfig.dev.json
+/home/diego/Dio.Series/bin/Debug/net5.0/Dio.Series.dll
+/home/diego/Dio.Series/bin/Debug/net5.0/ref/Dio.Series.dll
+/home/diego/Dio.Series/bin/Debug/net5.0/Dio.Series.pdb
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.dll
+/home/diego/Dio.Series/obj/Debug/net5.0/ref/Dio.Series.dll
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.pdb
+/home/diego/Dio.Series/obj/Debug/net5.0/Dio.Series.genruntimeconfig.cache
